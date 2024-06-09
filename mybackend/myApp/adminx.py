@@ -10,3 +10,4 @@ class FisherManAdmin(object):
     model_icon = 'fa fa-user'
 
 xadmin.site.register(FisherMan, FisherManAdmin)
+# Second modified file
